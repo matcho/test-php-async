@@ -1,0 +1,5 @@
+{
+    "require": {
+        "async-request/async-request": "^0.1.0"
+    }
+}
